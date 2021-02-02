@@ -1389,16 +1389,16 @@
         },
         {
             "name": "sanity/sanity-php",
-            "version": "v1.4.1",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sanity-io/sanity-php.git",
-                "reference": "a4bf1a324d387a7e6b28158c412caf8336129d11"
+                "reference": "ec2cd56b3fdf3825b037bcf38b02f066df5f53ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sanity-io/sanity-php/zipball/a4bf1a324d387a7e6b28158c412caf8336129d11",
-                "reference": "a4bf1a324d387a7e6b28158c412caf8336129d11",
+                "url": "https://api.github.com/repos/sanity-io/sanity-php/zipball/ec2cd56b3fdf3825b037bcf38b02f066df5f53ba",
+                "reference": "ec2cd56b3fdf3825b037bcf38b02f066df5f53ba",
                 "shasum": ""
             },
             "require": {
@@ -1429,9 +1429,9 @@
             "description": "PHP library for the Sanity API",
             "support": {
                 "issues": "https://github.com/sanity-io/sanity-php/issues",
-                "source": "https://github.com/sanity-io/sanity-php/tree/v1.4.1"
+                "source": "https://github.com/sanity-io/sanity-php/tree/v1.5.0"
             },
-            "time": "2020-11-27T12:28:35+00:00"
+            "time": "2021-02-01T16:16:04+00:00"
         },
         {
             "name": "symfony/console",
