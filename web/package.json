@@ -10,7 +10,7 @@
   "devDependencies": {
     "axios": "^0.21.1",
     "cross-env": "^3.2.3",
-    "fuse.js": "^3.3.0",
+    "fuse.js": "^6.0.0",
     "highlight.js": "^10.5.0",
     "laravel-mix": "^4.0.0||^5.0.0",
     "laravel-mix-jigsaw": "^1.0.0",
